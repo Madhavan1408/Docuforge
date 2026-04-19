@@ -9,4 +9,3 @@ def supabase() -> Client:
         os.getenv("SUPABASE_URL"),
         os.getenv("SUPABASE_KEY")
     )
-
