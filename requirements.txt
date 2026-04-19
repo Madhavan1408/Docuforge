@@ -1,0 +1,13 @@
+langchain
+langgraph
+fastapi
+uvicorn
+supabase
+python-dotenv
+pypdf
+langchain-text-splitters
+python-docx
+python-multipart
+sse-starlette
+cohere
+groq
